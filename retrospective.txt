@@ -1,0 +1,5 @@
+Given time: 60 min
+Leftover time: 13 mins
+
+I wrote down everything in psuedocode but I still had trouble translating it to code.
+Dan helped me sort out my thoughts and I was able to code everything in 10 mins. The rest of the time I used to prepare and understand the problem. I thought this problem would be hard, but once I started coding, it ended up being easier than I expected.
