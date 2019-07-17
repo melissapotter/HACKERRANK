@@ -1,0 +1,5 @@
+Given time: 40 mins
+Used time: ALL
+
+Notes:
+I was so close to finishing the problem on time. I had trouble with the second loop. I kept running the code with j = 1 instead of j = i + 1 and spent most of my time thinking of how to iterate through the rest of the numbers after it compares index 0 to each of the numbers in the array.
