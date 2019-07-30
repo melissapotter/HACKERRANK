@@ -1,8 +1,12 @@
-var d = new Date();
-var month = d.getMonth() + 1;
-var year = d.getFullYear();
-var date = (month + "." + year);
+const d = new Date();
+const month = d.getMonth() + 1;
+const year = d.getFullYear();
+const date = (month + "." + year);
 
-// function dateCheck() {
-console.log(date);
-// }
+function dateCheck(m, y) {
+  yearCalc = (year - y);
+  monthCalc = (((month - m) / 12));
+  console.log((yearCalc + monthCalc).toFixed(2));
+}
+
+dateCheck(7, 2018); // 3
