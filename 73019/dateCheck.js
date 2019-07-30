@@ -9,4 +9,4 @@ function dateCheck(m, y) {
   console.log((yearCalc + monthCalc).toFixed(2));
 }
 
-dateCheck(7, 2018); // 3
+dateCheck(7, 2018); 
