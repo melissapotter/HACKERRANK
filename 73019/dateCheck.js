@@ -1,7 +1,6 @@
 const d = new Date();
 const month = d.getMonth() + 1;
 const year = d.getFullYear();
-const date = (month + "." + year);
 
 function dateCheck(m, y) {
   yearCalc = (year - y);
